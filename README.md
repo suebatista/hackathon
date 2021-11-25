@@ -14,7 +14,7 @@ Este novo dataset construído com os dados agrupados foi utilizado para responde
 Para responder  as duas perguntas foi utilizado a linguagem de dados Python e os dados serão apresentados no dashboard.  
 
 ## DataDES Membros
-Danilo Gouveia Silva – cientista de dados (danilo.gouveiasilva@gmail.com)
+Danilo Gouvea Silva – cientista de dados (danilo.gouveiasilva@gmail.com)
 Eduardo Rogério Malaquias Chagas – medico (eduardo.chagas@alumni.usp.br)
-Suelen Cristina Batista – cientista de dados (suelencristina.batista@gmail.com)
+Suelen Cristina Batista da Silva – cientista de dados (suelencristina.batista@gmail.com)
 
