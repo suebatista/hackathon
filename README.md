@@ -1,4 +1,6 @@
-# Datathon Dermatite Atópica
+![image](https://user-images.githubusercontent.com/58999412/143659477-06576366-9cbe-4e84-8e96-f27af7255bd5.png)
+
+
 
 ## Introdução
 A dermatite atópica (DA) é uma doença crônica que se manifesta em crianças, mas que pode persistir até a adolescência. A DA tem 3 formas de apresentação: leve, moderada e grave. Quando a DA está na forma grave, necessita de internação. Segundo o IBGE há  aproximadamente um universo de 27 milhões de crianças de até 9 anos no Brasil. Vários trabalhos mostram que a prevalência da doença pode chegar até 12%, assim, calcula-se que um número enorme de possíveis pacientes podem ter DA. Atualemte o sistema único de saúde (SUS) não disponibiliza o tratamento  ideal  aos pacientes com DA, tratamento este já disponível na assistência médica privada. A disponibilização do tratamento mais adequada aos pacientes do sistema público de saúde permitirá melhor controle da doença, evitando internações e diminuindo o impacto da DA na sociedade.
