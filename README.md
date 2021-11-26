@@ -18,10 +18,18 @@ Para responder  as duas perguntas foi utilizado a linguagem de programação Pyt
 
 ## Resultados 
 
-* Código fonte da análise de dados:
-  * ['Pergunta 3'](https://github.com/suebatista/hackathon/blob/main/dermatite_inss.ipynb)
+* Vídeo explicando o trabalho
 
-* Dashboard - 
+* Bases utilizadas
+
+* Código fonte
+* * ['notebook 2'](https://github.com/suebatista/hackathon/blob/main/dermatite_inss.ipynb)
+
+* Dashboard de visualização dos dados
+
+* Código fonte da análise de dados:
+  
+
 
 ## DataDES Membros
 * Danilo Gouvea Silva – cientista de dados (danilo.gouveiasilva@gmail.com)
